@@ -1,5 +1,7 @@
 # Cider 2 ThemeKit 🎨
 
+This is my own fork of this to get a git-tracked theme working. ~it's~ I'm stupid, but you'll have to live with it.
+
 ## 🌐 Pre-requisites
 
 -   [Cider 2.3 or higher](https://cidercollective.itch.io/cider)

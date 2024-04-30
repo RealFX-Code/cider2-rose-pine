@@ -1,0 +1,11 @@
+{
+    "author": "Leah (Sometime)",
+    "identifier": "rocks.realfx.cider2.rose-pine",
+    "name": "Rosé Pine",
+    "styles": [
+        {
+            "name": "Default",
+            "entry": "style.scss"
+        }
+    ]
+}
